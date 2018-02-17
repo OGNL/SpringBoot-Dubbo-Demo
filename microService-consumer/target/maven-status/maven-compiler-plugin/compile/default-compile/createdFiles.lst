@@ -1,0 +1,4 @@
+com\consumer\demo\controller\UserController.class
+com\consumer\demo\entity\User.class
+com\consumer\demo\service\UserService.class
+com\consumer\demo\Application.class

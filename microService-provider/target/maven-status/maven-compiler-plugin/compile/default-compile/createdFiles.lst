@@ -1,0 +1,5 @@
+com\provider\demo\entity\User.class
+com\provider\demo\service\UserService.class
+com\provider\demo\dao\UserDao.class
+com\provider\demo\service\impl\UserServiceImpl.class
+com\provider\demo\Application.class
